@@ -10,3 +10,5 @@ The linear steps:
 3) scraping search results (see [03_scrape_search_results.ipynb](https://github.com/MatthewKollmer/say_their_names/blob/main/03_scrape_search_results.ipynb))
 
 To understand the genesis of this project, you may want to review my draft version here: [https://github.com/MatthewKollmer/messing-around/tree/main/vrt_work/say_their_names](https://github.com/MatthewKollmer/messing-around/tree/main/vrt_work/say_their_names). This draft version shows how the project involved numerous iterations, failed attempts, explorations, and non-linear processes. It contains journal entries alongside code and other resources. It's admittedly more convoluted, but I'm archiving the draft version because it's a resource for studying _processes_ in the digital humanities.
+
+Chron Am raw search results data can be found here: [https://uofi.box.com/s/dqf9ac3in29hfz0gbrbleqzvkv13w2hs](https://uofi.box.com/s/dqf9ac3in29hfz0gbrbleqzvkv13w2hs)
