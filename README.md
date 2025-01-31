@@ -12,4 +12,4 @@ The linear steps:
 
 To understand the genesis of this project, you may want to review my draft version here: [https://github.com/MatthewKollmer/messing-around/tree/main/vrt_work/say_their_names](https://github.com/MatthewKollmer/messing-around/tree/main/vrt_work/say_their_names). This draft version shows how the project involved numerous iterations, failed attempts, explorations, and non-linear processes. It contains journal entries alongside code and other resources. It's admittedly more convoluted, but I'm archiving the draft version because it's a resource for studying _processes_ in the digital humanities.
 
-Data can be found here: [https://uofi.app.box.com/folder/283227580250](https://uofi.app.box.com/folder/283227580250). If you don't have access to this link, please [contact me](https://matthewkollmer.com/contact/).
+If you need access to the data, please [contact me](https://matthewkollmer.com/contact/). Once I send you an invite, the data can be found here: [https://uofi.app.box.com/folder/283227580250](https://uofi.app.box.com/folder/283227580250). 
