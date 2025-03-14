@@ -12,7 +12,8 @@ This repository is a presentation of code from the US Lynching Victims Project. 
 4) enrich our datasets (see [04_enrich_dataset.ipynb](https://github.com/MatthewKollmer/us_lynching_victims/blob/main/04_enrich_dataset.ipynb))
 5) select a random sample (see [05_random_sample.ipynb](https://github.com/MatthewKollmer/us_lynching_victims/blob/main/05_random_sample.ipynb))
 6) label the training data (see [06_label_training_data.ipynb](https://github.com/MatthewKollmer/us_lynching_victims/blob/main/06_label_training_data.ipynb))
-7) TBD
+7) fine-tune BERT and classify data (see [07_BERT_classifier.ipynb](https://github.com/MatthewKollmer/us_lynching_victims/blob/main/07_BERT_classifier.ipynb))
+8) TBD
 
 To understand the genesis of this project, you may also want to review my draft version here: [https://github.com/MatthewKollmer/works-in-progress/tree/main/vrt_work/us-lynching-victims](https://github.com/MatthewKollmer/works-in-progress/tree/main/vrt_work/us-lynching-victims). This draft version shows how the project involved numerous iterations, failed attempts, explorations, and non-linear processes. It contains journal entries alongside code and other resources. The draft version is admittedly more convoluted, but it's also a fully transparent resource that highlights the many _processes_ involved in this kind of work.
 
