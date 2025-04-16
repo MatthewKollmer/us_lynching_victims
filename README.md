@@ -1,7 +1,8 @@
 # The Victim-Centered Dataset of U.S. Lynching Newspaper Reports
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/MatthewKollmer/us_lynching_victims/blob/9b96dc7a5a5fb3f5109f741306a6e1973c1d655a/Figure_4_lynch_locations.png" width="500" height="500">
+</p>
 </div>
 ![Map of US Lynching Locations in the Victim-Centered Dataset](Figure_4_lynch_locations.png | width=100)
 <p align="center">Map of US Lynching Locations in the Victim-Centered Dataset</p>
