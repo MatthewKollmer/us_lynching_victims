@@ -1,7 +1,7 @@
 # The Victim-Centered Dataset of U.S. Lynching Newspaper Reports
 
 ![Map of US Lynching Locations in the Victim-Centered Dataset](Figure_4_lynch_locations.png)
-<p align: "center">Map of US Lynching Locations in the Victim-Centered Dataset</p>
+<p align="center">Map of US Lynching Locations in the Victim-Centered Dataset</p>
 
 The US Lynching Victims Project is one sub-project in the larger [Virality of Racial Terror Project (VRT)](https://www.racialviolencearchive.com/vrt-project.html), a grant-funded initiative that applies computational methods to identify and study the circulation of racial violence reports in the United States between 1865 and 1921. In that regard, the US Lynching Victims Project specifically relies on existing datasets of lynchings from the period. It builds off a century's worth of work by journalists, activists, and researchers–from Ida B. Wells-Barnett, Monroe Work, the NAACP, and many others–who collectively documented instances of lynchings and racial violence over many decades. Thanks to this rich tradition of activism through research, we have data that provides victim names, places, and dates, and in turn, a much better understanding of the appalling legacy of racial violence in the United States.
 
