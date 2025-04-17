@@ -20,7 +20,7 @@ This repository is a presentation of code from the US Lynching Victims Project. 
 6) label the training data (see [06_label_training_data.ipynb](https://github.com/MatthewKollmer/us_lynching_victims/blob/main/06_label_training_data.ipynb))
 7) fine-tune BERT and classify data (see [07_BERT_classifier.ipynb](https://github.com/MatthewKollmer/us_lynching_victims/blob/main/07_BERT_classifier.ipynb))
 8) enrich our data with locations (see [08_enrich_dataset_x2.ipynb](https://github.com/MatthewKollmer/us_lynching_victims/blob/main/08_enrich_dataset_x2.ipynb))
-9) interactive codebook (see [09_interactive_codebook.ipynb](https://github.com/MatthewKollmer/us_lynching_victims/blob/main/09_interactive_codebook.ipynb))
+9) interactive codebook (see [09_interactive_codebook.ipynb](https://github.com/MatthewKollmer/us_lynching_victims/blob/main/09_interactive_codebook.ipynb) or visit [https://matthewkollmer.com/09_interactive_codebook.html](https://matthewkollmer.com/09_interactive_codebook.html) to interact with the codebook directly))
 
 To understand the genesis of this project, you may also want to review my draft version here: [https://github.com/MatthewKollmer/works-in-progress/tree/main/vrt_work/us-lynching-victims](https://github.com/MatthewKollmer/works-in-progress/tree/main/vrt_work/us-lynching-victims). This draft version shows how the project involved numerous iterations, failed attempts, explorations, and non-linear processes. It contains journal entries alongside code and other resources. The draft version is admittedly more convoluted, but it's also a fully transparent resource that highlights the many _processes_ involved in this kind of work.
 
